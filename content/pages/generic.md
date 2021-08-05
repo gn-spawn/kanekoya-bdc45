@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: Just a generic subtitle for the page
+subtitle: 代表概要
 seo:
   title: Just a Generic Page
   description: This is a generic page
