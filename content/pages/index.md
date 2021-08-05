@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 「やりたい」のその先へ
-    subtitle: '### つくば市の'
+    subtitle: '### '
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
