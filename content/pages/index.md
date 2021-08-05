@@ -22,7 +22,9 @@ sections:
     image: images/art.svg
     image_alt: Geometric pattern
     content: |
-      上記の
+      上記の例以外でも、IoTで工場や事業所の管理をもっと便利にしたい。ビジネスをもっと改善したいけど、どうしたら良いのか分からないなど
+
+      お気軽にご相談ください。
 seo:
   title: 金子屋
   description: つくば市のITに関するなんでも屋です。
