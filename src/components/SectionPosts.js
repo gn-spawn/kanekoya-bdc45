@@ -22,7 +22,6 @@ export default class SectionPosts extends React.Component {
                 {thumbImage && <img src={withPrefix(thumbImage)} alt={thumbImageAlt} className="thumbnail" />}
                 <div className="copy">
                     <h2>{title}</h2>
-                    <h3 className="publish-date">Published on <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time></h3>
                     {excerpt && <p className="summary">{excerpt}</p>}
                     {hasMoreLink && moreLinkText && <div className="text-link">{moreLinkText}</div>}
                 </div>
