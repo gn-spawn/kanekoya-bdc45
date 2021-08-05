@@ -10,7 +10,7 @@ sections:
     section_id: intro
     type: section_content
     content: >-
-      金子屋
+      金子屋はつくば市に拠点を構える
 
       ### This is an H3. Use it for subheads and subsections.
 
