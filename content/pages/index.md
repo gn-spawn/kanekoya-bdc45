@@ -58,7 +58,7 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
 seo:
   title: 金子屋
-  description: つくば市のITに
+  description: つくば市のITに関する
   extra:
     - name: 'og:type'
       value: website
