@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 「やってみたい」のその先へ
-    subtitle: '### '
+    subtitle: '### 「やってみたい」と思ったそのアイデアを'
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
