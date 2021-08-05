@@ -7,7 +7,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Homeホーム",
+                "label": "ホーム",
                 "url": "/"
             },
             {
