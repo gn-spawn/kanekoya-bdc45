@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Mission
+    title: 「やってみたい」のその先へ
     subtitle: '### '
     image: images/avatar.png
     image_alt: Author avatar
