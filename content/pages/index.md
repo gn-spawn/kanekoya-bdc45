@@ -11,7 +11,6 @@ sections:
     type: section_content
     content: >
       金子屋は茨城県つくば市に拠点を構える、ITなんでも屋さんです。お客様の要望に合わせてWebアプリケーション制作やホームページの作成、リモートワークの支援など幅広くIT技術を提供しています。
-    image: images/avatar.png
     image_alt: test
   - title: Recent Posts
     section_id: posts
