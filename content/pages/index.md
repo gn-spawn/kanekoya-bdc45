@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 「やりたい」のその先へ
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: '### つくば市の'
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
