@@ -19,7 +19,6 @@ sections:
   - title: A Cat
     section_id: cat
     type: section_content
-    image: images/art.svg
     image_alt: Geometric pattern
     content: |
       上記の例以外でも、IoTで工場や事業所の管理をもっと便利にしたい。ビジネスをもっと改善したいけど、どうしたら良いのか分からないなど
