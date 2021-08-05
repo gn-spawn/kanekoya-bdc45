@@ -1,5 +1,5 @@
 ---
-title: Webアプリケーション開発
+title: スタートアップ支援事業
 subtitle: A cautionary tale about Magna etiam
 excerpt: >-
   Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
