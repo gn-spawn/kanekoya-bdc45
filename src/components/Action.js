@@ -20,7 +20,7 @@ export default class Action extends React.Component {
         }
 
         return (
-            <Link href={withPrefix(url)} {...attrs} className={actionClass} style={{display: 'inline-block'}}>
+            <Link href={withPrefix(url)} {...attrs} className={actionClass} >
                 {label}
             </Link>
         );
