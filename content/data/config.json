@@ -7,11 +7,11 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "ホーム",
+                "label": "Home",
                 "url": "/"
             },
             {
-                "label": "Generic",
+                "label": "About",
                 "url": "/generic/"
             },
             {
