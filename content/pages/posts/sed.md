@@ -1,5 +1,5 @@
 ---
-title: ホームページの作成
+title: Webの集客施策
 date: '2016-08-28'
 thumb_img_path: images/art.svg
 thumb_img_alt: Geometric pattern
