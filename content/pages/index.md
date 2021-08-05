@@ -10,7 +10,7 @@ sections:
     section_id: intro
     type: section_content
     content: >-
-      金子屋はつくば市に拠点を構え、ソフトウェア開発や技術コンサルティングを
+      金子屋は茨城県つくば市に拠点を構え、ソフトウェア開発や技術コンサルティングを
 
       ### This is an H3. Use it for subheads and subsections.
 
