@@ -20,7 +20,7 @@ export default class Action extends React.Component {
         }
 
         return (
-            <Link href={withPrefix(url)} {...attrs} className={actionClass} css={{}}>
+            <Link href={withPrefix(url)} {...attrs} className={actionClass} style={{color: 'red'}}>
                 {label}
             </Link>
         );
