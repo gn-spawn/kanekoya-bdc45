@@ -1,7 +1,7 @@
 ---
 title: リモートワーク支援
 date: '2016-08-22'
-thumb_img_path: images/art.svg
+thumb_img_path: /images/People collaborating remotely.png
 thumb_img_alt: Geometric pattern
 seo:
   title: Tellus magna dolore sed elementum
