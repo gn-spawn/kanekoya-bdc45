@@ -15,6 +15,9 @@ export default class Page extends React.Component {
 
         return (
             <Layout page={page} config={config}>
+            {page.title == "Contact" ? (): (
+                
+            )}
                 <section className="page">
                     <header className="hero">
                         <div className="copy">
