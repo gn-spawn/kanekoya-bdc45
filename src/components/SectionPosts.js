@@ -23,7 +23,7 @@ export default class SectionPosts extends React.Component {
                 <div className="copy">
                     <h2>{title}</h2>
                     {excerpt && <p className="summary">{excerpt}</p>}
-                    {hasMoreLink && moreLinkText && <div className="text-link">{moreLinkText}</div>}
+                    {/* {hasMoreLink && moreLinkText && <div className="text-link">{moreLinkText}</div>} */}
                 </div>
             </Link>
         );
