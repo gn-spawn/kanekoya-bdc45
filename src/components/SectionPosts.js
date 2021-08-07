@@ -19,7 +19,7 @@ export default class SectionPosts extends React.Component {
 
         return (
             // <Link key={index} href={postUrl} className="article-teaser">
-            
+            <Link key={index} href={postUrl} className="article-teaser">
                 {thumbImage && <img src={withPrefix(thumbImage)} alt={thumbImageAlt} className="thumbnail" />}
                 <div className="copy">
                     <h2>{title}</h2>
