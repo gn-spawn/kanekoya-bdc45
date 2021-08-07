@@ -18,14 +18,14 @@ export default class SectionPosts extends React.Component {
         const moreLinkText = _.get(section, 'more_link_text');
 
         return (
-            <h2 key={index} href={postUrl} className="article-teaser">
+            <div key={index} href={postUrl} className="article-teaser">
                 {thumbImage && <img src={withPrefix(thumbImage)} alt={thumbImageAlt} className="thumbnail" />}
                 <div className="copy">
                     <h2>{title}</h2>
                     {excerpt && <p className="summary">{excerpt}</p>}
                     {/* {hasMoreLink && moreLinkText && <div className="text-link">{moreLinkText}</div>} */}
                 </div>
-            </h2>
+            </div>
         );
     }
     render() {
