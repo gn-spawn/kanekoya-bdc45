@@ -28,7 +28,6 @@ export default class Page extends React.Component {
                     {markdownContent && <div className="content">{markdownify(markdownContent)}</div>}
                 </section>
             )}
-            {console.log(page.title)}
             </Layout>
         );
     }
