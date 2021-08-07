@@ -1,5 +1,5 @@
 ---
-title: About
+title: Contact
 subtitle: Aliquam lobortis faucibus blandit
 seo:
   title: Ipsum dolor sit amet
