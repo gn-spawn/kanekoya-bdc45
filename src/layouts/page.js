@@ -15,10 +15,10 @@ export default class Page extends React.Component {
 
         return (
             <Layout page={page} config={config}>
-            {page.title == "Contact" ? (): (
+            {page.title == "Contact" ? (
                 
-            )}
-                <section className="page">
+            ): (
+<section className="page">
                     <header className="hero">
                         <div className="copy">
                             <h1>{title}</h1>
@@ -27,6 +27,8 @@ export default class Page extends React.Component {
                     </header>
                     {markdownContent && <div className="content">{markdownify(markdownContent)}</div>}
                 </section>
+            )}
+                
             </Layout>
         );
     }
