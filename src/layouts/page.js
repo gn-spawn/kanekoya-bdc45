@@ -17,7 +17,7 @@ export default class Page extends React.Component {
             <Layout page={page} config={config}>
             {page.title == "Contact" ? (
                 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScjd52-DEcjMfSnpKBlsZHE0g663ItqhlEiB_RupbwuKXbKmg/viewform?embedded=true" width="640" height="1158" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
-            ):(
+            ) : (
                 <section className="page">
                     <header className="hero">
                         <div className="copy">
