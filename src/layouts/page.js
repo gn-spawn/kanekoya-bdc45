@@ -15,7 +15,7 @@ export default class Page extends React.Component {
 
         return (
             <Layout page={page} config={config}>
-                {console.log(page)}
+                {console.log(page.t)}
                 <section className="page">
                     <header className="hero">
                         <div className="copy">
