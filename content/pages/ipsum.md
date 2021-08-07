@@ -1,5 +1,5 @@
 ---
-title: Ipsum dolor sit amet
+title: About
 subtitle: Aliquam lobortis faucibus blandit
 seo:
   title: Ipsum dolor sit amet
